@@ -1,7 +1,7 @@
 # Shopify
 A Myntra Clone I created to test my java and mysql skills.
 
-It is a desktop application developed using Java in Netbeans IDE using JDBC. MySQL has been linked as a database for storing data of accounts and purchases. It provides a professional interface to browse and buy apparels. It boasts 10+ fashion brands and a wide range of 120+ apparels to choose from, all ranging between different gender and sizes. It has a cart to view your selected products and shipping system to save your address and card details.
+It is a desktop application developed using Java in Netbeans IDE using JDBC. MySQL has been linked as a database for storing the data of users and the purchases they have made. It provides a professional interface to browse and buy apparels. It boasts 10+ fashion brands and a wide range of 120+ apparels to choose from, all ranging between different gender and sizes. It has a cart to view your selected products and shipping system to save your address and card details.
 
 Screenshots:
 
@@ -13,7 +13,7 @@ Register Page:
 ![image](https://user-images.githubusercontent.com/81905343/182011753-e9ab90fb-2a28-4db7-a419-ab728e650d6e.png)
 
 Login Page:
-![image](https://user-images.githubusercontent.com/81905343/182011782-a13d38b4-1785-4692-a6aa-3483f9e7c999.png)
+![image](https://user-images.githubusercontent.com/81905343/182012279-a4a4f080-50cf-48b2-bae0-2b70383cfd37.png)
 
 Page to modify account details:
 ![image](https://user-images.githubusercontent.com/81905343/182011810-210af37d-0f5e-4b05-870f-81f3ba05615f.png)
@@ -32,6 +32,11 @@ Cart:
 
 Page to enter Credit/Debit Card Details:
 ![image](https://user-images.githubusercontent.com/81905343/182012137-1c2eda3c-95a8-4f6c-a4df-96d69e4d6448.png)
+
+Checkout Page:
+![image](https://user-images.githubusercontent.com/81905343/182012326-4c53d295-3f11-4490-8c57-76986d6e1cbb.png)
+
+
 
 
 
