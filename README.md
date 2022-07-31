@@ -3,6 +3,9 @@ A Myntra Clone I created to test my Java and MySQL skills.
 
 It is a desktop application developed using Java in Netbeans IDE using JDBC. MySQL has been linked as a database for storing the data of users and the purchases they have made. It provides a professional interface to browse and buy apparels. It boasts 10+ fashion brands and a wide range of 120+ apparels to choose from, all ranging between different gender and sizes. It has a cart to view your selected products and shipping system to save your address and card details.
 
+Project files are inside the master branch of this repository.
+
+
 Screenshots:
 
 
